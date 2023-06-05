@@ -17,6 +17,9 @@ class _FirstState extends State<First> {
           'Bu master branchdagi o`zgartirish',
         ),
       ),
+      body: IconButton(
+        onPressed: () {}, icon: const Icon(Icons.add,),
+      ),
     );
   }
 }
