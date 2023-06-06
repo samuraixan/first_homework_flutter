@@ -1,7 +1,6 @@
 # first_homework
 
 A new Flutter project.
-Yangi o`zgarishlarni ko`rmoqchiman
 
 ## Getting Started
 
